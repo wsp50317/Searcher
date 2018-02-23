@@ -1,87 +1,35 @@
 # Project Title
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/Searcher_Icon.png)
 
 Searcher,a convenient tool to search something you are interesting in on the Web.
 You can set the search condiction conveniently,and you can get the Google search result by Web Crawler.
 
 ## Getting Started
+When you open the application,you can see that the main page.
 
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/main.png)
 
-### Prerequisites
+You can key in something you want to search for in the input field.Then choose the time range and the Website,and click the search botton.
 
-What things you need to install the software and how to install them
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/result.png)
 
-```
-Give examples
-```
+It will show you the information about the search.You can click one of the field and you will go to the page on the browser.
 
-### Installing
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/Browserpng.png)
 
-A step by step series of examples that tell you have to get a development env running
+When you want to return to the result of search,click the return key.
 
-Say what the step will be
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/Addfavorite.png)
 
-```
-Give the example
-```
+You can also add the result to "Your Favorite" by a long click.Click the right-up button can show Your Favorite.
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+![Image](https://github.com/wsp50317/Searcher/blob/master/Pircure_For_README/favorite.png)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Android Studio 2.3.1](https://developer.android.com/studio/index.html)
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hsi-Hsuan Wu** - *developed independently* - [wsp50317](https://github.com/50317)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
