@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">開箱搜尋神器</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_result">搜尋結果</string>
+    <string name="title_activity_search">開箱搜尋神器</string>
+    <string name="title_activity_faverite_page">書籤</string>
+</resources>
