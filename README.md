@@ -32,5 +32,5 @@ You can also add the result to "Your Favorite" by a long click.Click the right-u
 ## Authors
 
 * **Hsi-Hsuan Wu** - *developed independently* - [wsp50317](https://github.com/wsp50317)
-* **黃子瑜** - *Icon design* - [wsp50317](https://github.com/wsp50317)
+* **黃子瑜** - *Icon design* 
 
